@@ -1,0 +1,32 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "Liri Bot retrieves tweets, searches Spotify and OMDB for metadata, and will run a random command from the random.txt file",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node liri.js movie-this the manchurian candidate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfonsodlopez/liri_bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "spotify",
+    "twitter",
+    "omdb"
+  ],
+  "author": "Alfonso Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfonsodlopez/liri_bot/issues"
+  },
+  "homepage": "https://github.com/alfonsodlopez/liri_bot#readme"
+}
