@@ -37,5 +37,8 @@ This will output the following information to your terminal/bash window:
    * Plot of the movie.
    * Actors in the movie.
 
+node liri.js do-what-it-says
+
+Chooses a random action and media query to submit
 
 Output is logged to log.txt.
