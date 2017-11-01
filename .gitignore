@@ -1,0 +1,5 @@
+# Now that your projects will start to contain dependencies you'll want to get in the habit
+# of adding a .gitignore file tp your repos so you only track the changes to dependency
+# versions in the package.json and not in your node_modules folder
+node_modules
+.DS_Store

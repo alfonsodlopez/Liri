@@ -1,10 +1,12 @@
+// Nice job defining your global vars at the top of the file 👌
 var request = require('request');
 var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
-var fs = require('fs')
+var fs = require('fs') // try to stay consistent one way or the other with your semi-colon use 😬
 var keys = require('./keys.js')
 
 var selection = process.argv[2];
+// Nice use of slice!
 var query = process.argv.slice(3).join(' ')
 
 /*This will show the last 20 tweets and when they were created.*/
@@ -17,6 +19,7 @@ function myTweets() {
 		if (!error) {
 			tweets.forEach(function(item) {
 				//For each tweet in the response, create a status dictionary
+				// Indentation's a little inconsistent here
 	            let status = {name : item.user.name, 
 	            	text : item.text,
 	            	created  : item.created_at,
@@ -68,6 +71,8 @@ function spotify(songName) {
 	  		}
 	  		//Takes the response from Spotify and selects the desired information for printing 
 	  		data.tracks.items.forEach(function(item) {
+	  			// You should declare these variables with the var keyword so they stay within
+	  			// this functional scope.
 	  			track = 'Track Name: '+ item.name
 	  			album = 'Album Name: '+ item.album.name
 	  			artist = 'Artist Name: '+ item.artists[0].name
@@ -92,6 +97,7 @@ function movie(movieName) {
 			return console.log(error);
 		}
 		let json = JSON.parse(body)
+		// Same note here about declaring variables with var
 		title = '\nTitle: '+json.Title
 		year = 'Year: '+json.Year
 		rating1 = 'Rating from '+json.Ratings[0].Source+": "+json.Ratings[0].Value
@@ -128,6 +134,8 @@ function menu(selection, query) {
 			break;
 
 		case "spotify-this-song":
+			// another way to default would be:
+			// query = query || 'The Sign'
 			if (query === '' || query === null) {
 				query = "The Sign"
 			}

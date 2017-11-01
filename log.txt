@@ -337,3 +337,149 @@ Track Name: I Want It That Way
 Album Name: I Want It That Way
 Artist Name: Kyle Olthoff
 Preview URL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=9506252146d1443f9da02aa1cc353de7
+
+do-what-it-says 
+
+spotify-this-song "I Want it That Way"
+
+Track Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: I Want It That Way
+Album Name: The Essential Backstreet Boys
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: I Want It That Way
+Album Name: Millennium
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: I Want It That Way
+Album Name: Covers Part IV
+Artist Name: Anthem Lights
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist Name: Glee Cast
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: I Want It That Way
+Album Name: I Want It That Way
+Artist Name: Manuel Costa
+Preview URL: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+Artist Name: Backstreet Boys
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: I Want It That Way
+Album Name: Punk Goes Pop
+Artist Name: Dynamite Boy
+Preview URL: null
+
+Track Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+Artist Name: "Weird Al" Yankovic
+Preview URL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: I Want It That Way
+Album Name: I Want It That Way
+Artist Name: Kyle Olthoff
+Preview URL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=9506252146d1443f9da02aa1cc353de7
+
+movie-this harry potter
+
+
+Title: Harry Potter and the Deathly Hallows: Part 2
+Year: 2011
+Rating from Internet Movie Database: 8.1/10
+Rating from Rotten Tomatoes: 96%
+Country of Origin: USA, UK
+Language: English
+Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+
+spotify-this-song torn
+
+Track Name: Torn
+Album Name: Left Of The Middle
+Artist Name: Natalie Imbruglia
+Preview URL: https://p.scdn.co/mp3-preview/6226210d4427f1f4dff7555abbd9801aae3af1f0?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: Torn - Bonus Track
+Album Name: First Impressions
+Artist Name: James TW
+Preview URL: null
+
+Track Name: Torn to Pieces
+Album Name: Onyx
+Artist Name: Pop Evil
+Preview URL: https://p.scdn.co/mp3-preview/f3850b94650ba6d2938501e409b0475e02e3613c?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: Torn
+Album Name: LeToya
+Artist Name: LeToya
+Preview URL: null
+
+Track Name: Torn
+Album Name: My Own Prison
+Artist Name: Creed
+Preview URL: null
+
+Track Name: Torn
+Album Name: Punk Goes 90's, Vol. 2
+Artist Name: Hands Like Houses
+Preview URL: null
+
+Track Name: Boss
+Album Name: Boss
+Artist Name: TORN
+Preview URL: https://p.scdn.co/mp3-preview/f6ac542420c03b700256a1cc6cb64e89f39eb136?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: Torn
+Album Name: Torn
+Artist Name: BONNIE X CLYDE
+Preview URL: https://p.scdn.co/mp3-preview/185e969d4a782f8c69f3a5838ead893b3005308f?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: Torn
+Album Name: Torn/Wishing I Was There
+Artist Name: Natalie Imbruglia
+Preview URL: https://p.scdn.co/mp3-preview/c405418fc59792bc65184dad566a3b2dfb3734cb?cid=9506252146d1443f9da02aa1cc353de7
+
+Track Name: Torn
+Album Name: Left Of The Middle / White Lillies Island
+Artist Name: Natalie Imbruglia
+Preview URL: https://p.scdn.co/mp3-preview/4696a7c4ac3af07b098f212c1f7f9a004a161e32?cid=9506252146d1443f9da02aa1cc353de7
+
+movie-this 
+
+
+Title: Mr. Nobody
+Year: 2009
+Rating from Internet Movie Database: 7.9/10
+Rating from Rotten Tomatoes: 66%
+Country of Origin: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+spotify-this-song 
+
+my-tweets 
+
+From: fonz at Fri Oct 13 10:15:50 +0000 2017
+Truth. https://t.co/MbIABhPXw3
+
+From: fonz at Fri Oct 13 10:14:53 +0000 2017
+RT @RespectfulMemes: https://t.co/FmN1GrSUNt
+
+From: fonz at Fri Oct 13 08:06:06 +0000 2017
+I mean... I'd also love making a career out of tweeting, but alas. Here I am, reading my own tweets from the command line.
+
+From: fonz at Fri Oct 13 08:04:08 +0000 2017
+API testing, oh yea!
